@@ -1,0 +1,138 @@
+*
+{
+margin: 0px;
+padding: 0px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header
+{
+background: rgb(166,250,219);
+background: linear-gradient(0deg, rgba(166,250,219,1) 0%, rgba(72,234,192,1) 88%, rgba(76,245,186,1) 100%);
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+padding-bottom: 5px;
+display: flex;
+border-bottom-right-radius: 15px;
+border-bottom-left-radius: 15PX;
+}
+img
+{
+    height: 75px;
+    width: 270px;
+    padding-bottom: 5px;
+    padding: 10px 10px 10px 60px;
+    display: flex;
+}
+nav ul
+{
+padding: 50px 0px 20px 250px;
+}
+nav ul li
+{
+    color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif, sans-serifound-color;
+    font-weight: 549;
+    font-size: 22px;
+    list-style-type: none;
+    padding: 30px 30px 5px 30px;
+    display: inline;
+} 
+.intro
+{
+    font-size: 25px;
+    padding: 20px 90px 90px 90px;
+    text-align: center;
+    color: #19c99a;
+    font-weight: 100;
+    padding: 40px 40px 40px 40px;
+}
+.fotos-inicio
+{
+    display: flex;
+    background-color: #e9faf7;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: Url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf5baCxLUGjKzCl1QZRCpMqKjT3M1V3_9SEZskhHzWl0_Y4qt4HiQE5Swk6DDw_g4QVlZm2INOFooHSrACpZNpaCQ537xl8KnBPxfxD8J91sJkrSemHTjARYf6k6Ev-N8FSLVWbtiq3gC1OquZHw2ucQMfaJLyikPDneLxVyEL6JO7ViUcOjjCTpjTu4jr/w945-h600-p-k-no-nu/k%20);color:#e9faf7;
+}
+.fotos-inicio img
+{
+    height: 80%;
+    width: 30%; 
+    margin: 30px 30px 30px 200px;
+    padding: 0px;
+    border-radius: 7px;
+}
+.fotos-inicio p
+{
+    color: #18ac84;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 0px 200px 20px 90px;
+}
+.fotos-segunda
+{
+    display: flex;
+    background-color: #e9faf7;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fotos-segunda img
+{
+    height: 80%;
+    width: 30%; 
+    margin: 30px 200px 30px 30px;
+    padding: 0px;
+    border-radius: 7px;
+}
+.fotos-segunda p
+{
+    color: #19c99a;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 0px 90px 20px 200px; 
+}
+.gif-presentacion img
+{
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+}
+.mensaje-antes-gif 
+{
+    display: flex;
+    background-color: #e9faf7;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-image: Url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf5baCxLUGjKzCl1QZRCpMqKjT3M1V3_9SEZskhHzWl0_Y4qt4HiQE5Swk6DDw_g4QVlZm2INOFooHSrACpZNpaCQ537xl8KnBPxfxD8J91sJkrSemHTjARYf6k6Ev-N8FSLVWbtiq3gC1OquZHw2ucQMfaJLyikPDneLxVyEL6JO7ViUcOjjCTpjTu4jr/w945-h600-p-k-no-nu/k%20);color:#e9faf7;
+}
+
+.mensaje-antes-gif p
+{
+    color: #18ac84;
+    font-size: 30px;
+    font-weight: 300;
+    padding: 15px 200px 20px 90px;
+    text-align: center;
+}
+.logo-flotante img
+{
+    height: 5%;
+    width: 5%;
+    display: flex;
+    align-content: end;
+    padding: 3px;
+    border-radius: 50px;
+    background-color: rgb(169, 245, 228);
+    position:fixed;
+    right: 10px;
+    bottom: 5px;
+    
+}
+footer h2
+{
+    background: rgb(166,250,219);
+    background: linear-gradient(0deg, rgba(166,250,219,1) 0%, rgba(72,234,192,1) 88%, rgba(76,245,186,1) 100%);
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;  
+}
